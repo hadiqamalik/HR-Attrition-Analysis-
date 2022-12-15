@@ -1,5 +1,5 @@
 # **HR Attrition Analysis**
-
+[Link to Dashboard](https://app.powerbi.com/view?r=eyJrIjoiMzc3OGVjYjctNDE1ZC00MGMxLWExMTgtMTUwMTdiZTExNzU0IiwidCI6ImZhODFhMThhLTk3NWEtNDM1Yy1iZDBhLTQxMzQ2YmRlODMwNCJ9&pageName=ReportSection)
 ## What is Attrition?
 
 Attrition refers to the phenomenon of the employees leaving the company. Attrition is measured with a metric called **Attrition Rate**, which simply measures the no of employees moving out of the company (voluntary resigning or laid off by the company). Attrition Rate is also referred as churn rate or turnover.
